@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ecclesia &amp; reformatio a dialogue betwixt St. Paul's Church and Salters Hall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37678</idno>
+            <idno type="STC">Wing E132</idno>
+            <idno type="STC">ESTC R26091</idno>
+            <idno type="EEBO-CITATION">09348599</idno>
+            <idno type="OCLC">ocm 09348599</idno>
+            <idno type="VID">42812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1307:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ecclesia &amp; reformatio a dialogue betwixt St. Paul's Church and Salters Hall.</title>
+               </titleStmt>
+               <extent>38 [i.e. 34] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A purported debate, in verse, between the Church of England and the dissenters.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42812:1" rendition="simple:additions"/>
+            <pb facs="tcp:42812:1"/>
+            <p> 
+               <hi>Eccleſia &amp; Reformatio.</hi>
+            </p>
+            <p>A DIALOGUE Betwixt <hi>St. Paul's Church</hi> AND Salters Hall.</p>
+            <p>
+               <hi>LONDON;</hi> Printed in the Year M DC XC VIII.</p>
+            <pb facs="tcp:42812:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="5" facs="tcp:42812:2"/>
+            <head>A DIALOGUE Betwixt St. PAUL's Church AND <hi>SALTER</hi>'s <hi>HALL.</hi>
+            </head>
+            <sp>
+               <speaker>Salters Hall.</speaker>
+               <lg>
+                  <l>TELL me, vaſt Fabrick! where thou mean'ſt to grow?</l>
+                  <l>What mighty top muſt ſute thy bulk below?</l>
+                  <pb n="6" facs="tcp:42812:3"/>
+                  <l> Muſt thy vaſt Spire attempt the diſtant Skies?</l>
+                  <l>As thy high Roof does o're the Houſes riſe:</l>
+                  <l>Like ſome proud Mountain near a ſpacious Plain,</l>
+                  <l>Thou doſt the Flocks and little Hills diſdain:</l>
+                  <l>Thy Pageant Pomp and gilded Arches ſhine</l>
+                  <l>By holy Sanction, and a Light divine.</l>
+                  <l>Th' aſtoniſhd Crowd before thee do confeſs,</l>
+                  <l>And all around the gawdy Idol bleſs.</l>
+                  <l>Submiſſive People tremble at thy Nod,</l>
+                  <l>And worſhip thee, tho they profane their God;</l>
+               </lg>
+               <lg>
+                  <l>Whilſt thoſe whom Reaſon better things has taught,</l>
+                  <l>Are by conſtraint unto thy Altars brought;</l>
+                  <l>Are forc'd to bow; or impiouſly you break</l>
+                  <l>What your Faith calls the ſtiff and ſtubborn Neck.</l>
+                  <pb n="7" facs="tcp:42812:3"/>
+                  <l> You, like ſome mighty Whale upon the Sea,</l>
+                  <l>Make trembling Fiſhes your Commands obey;</l>
+                  <l>Or elſe you execute pretended Power,</l>
+                  <l>The Right divine is giv'n you to devour.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>This mighty Orb, by Holy Writ we 're taught,</l>
+               <l>From confus'd Attoms was to Order brought:</l>
+               <l>The Days and Years in regular State began,</l>
+               <l>And ever ſince in juſt Proceſſion ran.</l>
+               <l>Nature exorbitant does often grow,</l>
+               <l>The Blood flows ſometimes high, ebbs often low:</l>
+               <l>But in Religion a Decorum 's us'd,</l>
+               <l>Its Rights are orderly, and not confus'd.</l>
+               <pb n="8" facs="tcp:42812:4"/>
+               <l> The brainleſs Mob wild Paſſions do controul,</l>
+               <l>And Infant-Saints need Guardians to the Soul;</l>
+               <l>Spiritual Doctors don't the Patient pleaſe,</l>
+               <l>But ſute the Medicines to the Diſeaſe:</l>
+               <l>If grown delirious, Phyſick is refus'd,</l>
+               <l>Force, for the Patient's good, muſt then be us'd.</l>
+            </sp>
+            <sp>
+               <speaker>Salters Hall.</speaker>
+               <lg>
+                  <l>If human Laws may force a human Mind,</l>
+                  <l>One's fancy may another's Conſcience bind,</l>
+                  <l>And thoſe who never own'd a God at all,</l>
+                  <l>At leaſt do blindly ſerve and bow to <hi>Baal.</hi>
+                  </l>
+                  <l>Make Terms of their Communion wrong or right,</l>
+                  <l>If all Religion muſt be made by Might;</l>
+                  <pb n="9" facs="tcp:42812:4"/>
+                  <l> We chuſe a Doctor for our Body's Health,</l>
+                  <l>And give him Fees according to our Wealth:</l>
+                  <l>We try his Med'cines, then approve his Skill,</l>
+                  <l>But think no Law impowers him to kill:</l>
+                  <l>The Heav'nly Quacks no Power can controul,</l>
+                  <l>They have a Right Divine to kill the Soul:</l>
+                  <l>Spiritual Phyſick we muſt take by force;</l>
+                  <l>You drench the Soul, as Farriers do a Horſe.</l>
+                  <l>Where Doctors thus Man's Reaſon do invade,</l>
+                  <l>The Patient's ſober, and the Doctor's mad:</l>
+                  <l>Had not the Mortal muſt ſuch Toils endure,</l>
+                  <l>Better be damn'd than undergo the Cure:</l>
+                  <l>For where the Church ſuch Recipes does bring,</l>
+                  <l>Saving and Damning is the ſelf ſame thing.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:42812:5"/>
+                  <l>The Laws in Faith can no Direction give;</l>
+                  <l>By Grace Divine and Reaſon we believe:</l>
+                  <l>Tho we our Hopes in Reaſon do not place,</l>
+                  <l>Yet Reaſon follows, or is join'd with Grace.</l>
+                  <l>The Spirit's Work no humane Law controuls,</l>
+                  <l>And Reaſon tells th' effect it has on Souls.</l>
+                  <l>In vain the Soul with humane Laws you bind,</l>
+                  <l>In ſenſleſs Shackles fetter up the Mind,</l>
+                  <l>Which like th' eternal Thought is unconfin'd:</l>
+                  <l>As if our Senſe was only fit for Trade,</l>
+                  <l>And Reaſon never for Religion made:</l>
+                  <l>And muſt not of our Souls concern debate,</l>
+                  <l>But blindly grope for an eternal State.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:42812:5"/>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>
+                  <hi>Reaſon</hi> may be on tumbling Surges toſt,</l>
+               <l>Or, not well govern'd in the Clouds, be loſt:</l>
+               <l>
+                  <hi>Reaſon</hi> in all things ought to have its due,</l>
+               <l>But ſtill have proof to know your <hi>Reaſon's</hi> true.</l>
+               <l>'Tis plain how often Men do change their Mind,</l>
+               <l>Oft as the Tides, or the unconſtant Wind;</l>
+               <l>Continual Errors 'mongſt the wiſe abound,</l>
+               <l>And not one Man infallible is found:</l>
+               <l>How oft the <hi>Judgment</hi> leads the <hi>Man</hi> aſide;</l>
+               <l>And <hi>Reaſon</hi> wanders when it has no <hi>Guide.</hi>
+               </l>
+               <l>I mark the way your <hi>Reaſon</hi> ought to go,</l>
+               <l>And the beſt Path to Heav'nly Manſions ſhow;</l>
+               <pb n="12" facs="tcp:42812:6"/>
+               <l> By me directed you may overcome</l>
+               <l>The crooked Serpent, and the Whore of <hi>Rome;</hi>
+               </l>
+               <l>I founded am upon the <hi>Rock</hi> Divine,</l>
+               <l>I am your Guide, and the bleſt Scripture's mine.</l>
+               <l>The Holy Word, my <hi>Charter</hi> and Delight,</l>
+               <l>And National States have recogniz'd my Right.</l>
+               <l>If ſtubborn Souls my Precepts cannot draw,</l>
+               <l>I muſt convert 'em by the force of Law.</l>
+               <l>The Body's Pleaſure did the Soul oppreſs,</l>
+               <l>Made Mankind fall into Unhappineſs.</l>
+               <l>The Body juſtly its Afflictions hath,</l>
+               <l>To ſave the Soul from an eternal Wrath.</l>
+               <l>Think it not hard if I Chaſtiſement give,</l>
+               <l>I ſcourge the Fleſh, to make the Conſcience live.</l>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:42812:6"/>
+               <speaker>Salters Hall.</speaker>
+               <l>I know our <hi>Reaſon</hi> may be in the dark,</l>
+               <l>And blunder oft, and often miſs the mark;</l>
+               <l>But the <hi>All-wiſe</hi> his Councils can unfold,</l>
+               <l>And give his <hi>Spirit</hi> as he did of old.</l>
+               <l>The mighty Truths of the Eternal Word</l>
+               <l>No aids of humane <hi>Reaſon</hi> can afford:</l>
+               <l>The Light Divine is evermore conceal'd,</l>
+               <l>But by the <hi>God of Light</hi> himſelf reveal'd,</l>
+               <l>Whoſe <hi>Spirit</hi> reaches to the inward Parts,</l>
+               <l>He views the ſecret corners of our Hearts:</l>
+               <l>Were you my <hi>Guide,</hi> I needs muſt go aſtray,</l>
+               <l>When only <hi>Jus Divinum</hi> leads the way:</l>
+               <pb n="14" facs="tcp:42812:7"/>
+               <l> How can you me a ſafe Inſtruction grant,</l>
+               <l>Who know not half the Mercies I do want?</l>
+               <l>What Stings of Conſcience I within me feel,</l>
+               <l>Or Apprehenſions of approaching Hell;</l>
+               <l>A Guide to <hi>Reaſon</hi> of a nobler Make</l>
+               <l>Than what of humane Frailty does partake.</l>
+               <l>How can your <hi>Reaſon</hi> be a Guide to mine,</l>
+               <l>When both our <hi>Reaſon</hi>'s equally divine;</l>
+               <l>Thro equal Clouds and daily Errors paſs,</l>
+               <l>And differ only as improv'd by <hi>Grace.</hi>
+               </l>
+               <l>The <hi>Scripture</hi> only is our Reaſon's Guide,</l>
+               <l>And all is Noiſe and Fooliſhneſs beſide.</l>
+               <l>Lay by the <hi>Law,</hi> and thy Foundation's gone,</l>
+               <l>Thou art not built upon the Corner-ſtone.</l>
+               <pb n="15" facs="tcp:42812:7"/>
+               <l> By Humane Power thou art wondrous great,</l>
+               <l>But Civil Sanction proves a Human Cheat;</l>
+               <l>The Church of <hi>Chriſt</hi> to endleſs Ages bleſt,</l>
+               <l>Can of it ſelf, without a Law, ſubſiſt.</l>
+               <l>When Foes invade her, ſhe has no Recourſe</l>
+               <l>To weak Auxili'ries of humane Force.</l>
+               <l>Our bleſſed <hi>Saviour</hi> has no Pow'r given</l>
+               <l>To mortal Man to change the Laws of Heav'n.</l>
+               <l>Th' eternal Law do's ev'ry where ſuffice</l>
+               <l>To rule the Church, and to inſtruct the Wiſe.</l>
+               <l>If you to mend it do a Power own,</l>
+               <l>By the ſame Power you may pull it down:</l>
+               <l>'Tis higheſt Arrogance to think that you</l>
+               <l>In making <hi>Forms</hi> our Saviour can outdo.</l>
+               <pb n="16" facs="tcp:42812:8"/>
+               <l> If only <hi>Law</hi> thy boaſted <hi>Baſis</hi> be;</l>
+               <l>The <hi>Pagan</hi> Temples are as good as thee;</l>
+               <l>The Law, thy Prayers does impoſe on Man,</l>
+               <l>Impoſes alſo the <hi>Turks Alcoran.</hi>
+               </l>
+               <l>When back'd with Pow'r your <hi>Articles</hi> you give,</l>
+               <l>We do at beſt implicitly believe.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>I do not the eternal Law infringe,</l>
+               <l>Nor do the Churches Conſtitution change;</l>
+               <l>My Laws were never neceſſary meant,</l>
+               <l>But left to Souls as things indifferent:</l>
+               <l>The <hi>Modes</hi> of Worſhip are no part of <hi>Faith,</hi>
+               </l>
+               <l>I do believe but what the <hi>Scripture</hi> ſaith.</l>
+               <pb n="17" facs="tcp:42812:8"/>
+               <l> But by the Power above 'tis left to me</l>
+               <l>T' appoint what <hi>Modes</hi> there ſhall in Worſhip be.</l>
+               <l>My Rites are all conform unto the Word,</l>
+               <l>And heav'nly Comfort to the Soul afford:</l>
+               <l>I in my <hi>Choire</hi> tranſporting Raptures find,</l>
+               <l>Seraphick Strains, and an exalted Mind.</l>
+               <l>Theſe are the Bleſſings I impoſe on you,</l>
+               <l>For which, Apoſtate, I am deem'd your Foe.</l>
+            </sp>
+            <sp>
+               <speaker>Salters-Hall.</speaker>
+               <l>By things Indifferent I am betray'd;</l>
+               <l>For ſtill I find 'em neceſſary made:</l>
+               <l>My Sons by theſe have often been undon,</l>
+               <l>Their Souls beneath thy gilded <hi>Altars</hi> groan;</l>
+               <pb n="18" facs="tcp:42812:9"/>
+               <l> Stifl'd in <hi>Priſons,</hi> robb'd of Liberty,</l>
+               <l>For Non-compliance to thy Foppery:</l>
+               <l>Which (tho to Forms Divine thou mak'ſt pretence)</l>
+               <l>Have no alliance unto common Senſe.</l>
+               <l>Thy mimick Poſtures, and thy ſenſleſs Bows,</l>
+               <l>Thy gilded Organs, and Theatrick Rows</l>
+               <l>Of Fidlers, Harpers, Singing-men, and Boys,</l>
+               <l>Praiſing of God in a confounded noiſe;</l>
+               <l>Can bawdy Ballads chant, or ſacred Hymn,</l>
+               <l>One day a <hi>Fidler,</hi> next a <hi>Seraphim:</hi>
+               </l>
+               <l>He whoſe polluted Breath but t'other day,</l>
+               <l>Charm'd the lewd Audience at a bawdy Play,</l>
+               <l>Sings with the ſame lewd Breath within thy <hi>Quire,</hi>
+               </l>
+               <l>And tunes his Voice to <hi>David</hi>'s ſacred <hi>Lyre.</hi>
+               </l>
+               <pb n="19" facs="tcp:42812:9"/>
+               <l> I peep'd within thy Gates the other day;</l>
+               <l>(For Novelty may lead the beſt aſtray)</l>
+               <l>I view'd thy Altar, and the gilded Wood;</l>
+               <l>Where in a Corner a ſtrange <hi>Songster</hi> ſtood;</l>
+               <l>A <hi>Goldfinch</hi> he appear'd unto the Sight,</l>
+               <l>His ſacred Veſtments were of red and white;</l>
+               <l>But when he open'd his unhallow'd Throat,</l>
+               <l>He ſeem'd ſome croaking <hi>Raven</hi> by his Note:</l>
+               <l>Prodigious Scare-crow on his Perch was rear'd,</l>
+               <l>To warn the old, and make the young afraid;</l>
+               <l>Lord! how with gogle Eyes he wonders at</l>
+               <l>Some mighty ſomthing, is the Lord knows what;</l>
+               <l>Extends his Arms, as Angels do their Wings,</l>
+               <l>Seems to mount upward, as below he ſings.</l>
+               <pb n="20" facs="tcp:42812:10"/>
+               <l> This, this the Worſhip, which thy Laws ordain;</l>
+               <l>Thus, thus the Sacred Name is took in vain:</l>
+               <l>Thus Men their Reaſon and their Senſe confound,</l>
+               <l>And chuſe Religion by an empty Sound.</l>
+               <l>Me Sounds alike do pleaſe; the croaking Frogs,</l>
+               <l>Thy Neſt of Whiſtles, or the Drove of Hogs.</l>
+               <l>I teach my Sons Humility and Love,</l>
+               <l>And all the Graces furniſh'd from Above;</l>
+               <l>Not frothy Notions, Philoſophick Pride,</l>
+               <l>But Chriſt for ruin'd Sinners crucify'd;</l>
+               <l>How they unruly Paſſions ſhould ſubdue,</l>
+               <l>Diſcharge the Old man, and receive the New;</l>
+               <l>I bid 'em ſtill for Sufferings prepare,</l>
+               <l>And be provided for the Chriſtian War,</l>
+               <pb n="21" facs="tcp:42812:10"/>
+               <l>'Gainſt days of Perſecution ſhall return,</l>
+               <l>And they, as Saints of old, for Faith may burn:</l>
+               <l>I bid 'em oft in Meditations be,</l>
+               <l>And tho thou hat'ſt my Children, pray for thee.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>My Sacred Rites have bin approv'd by all.</l>
+               <l>We Orthodox and holy Fathers call,</l>
+               <l>And learned Prelates above all the reſt,</l>
+               <l>Lately deceas'd, and number'd with the Bleſt,</l>
+               <l>Whoſe holy Lives have demonſtration giv'n,</l>
+               <l>They were the Darlings of the Church and Heav'n.</l>
+               <l>'Tis want of Knowledg makes you thus diſſent:</l>
+               <l>You ſhould, you ſhould your Ignorance lament;</l>
+               <pb n="22" facs="tcp:42812:11"/>
+               <l> Your native Sowrneſs and Stupidity,</l>
+               <l>Two ill Companions for a Chriſtian be:</l>
+               <l>While you no harmleſs Ceremonies grant,</l>
+               <l>You break the Windows to deſtroy the Paint;</l>
+               <l>Becauſe you find irregular the Porch,</l>
+               <l>You are reſolv'd to batter down the Church.</l>
+               <l>Thus ſome craz'd Mariner upon the Deep,</l>
+               <l>To drown the Rats, dos madly ſink his Ship.</l>
+               <l>You can no good by my Devotion feel,</l>
+               <l>Nor will before my ſacred Altars kneel,</l>
+               <l>But for Preferment, or a wealthy Place,</l>
+               <l>Intereſt uſurps, and baffles conquer'd Grace;</l>
+               <l>Your Sons aſſemble, and with mine receive</l>
+               <l>The Sacrament, as I the ſame do give;</l>
+               <pb n="23" facs="tcp:42812:11"/>
+               <l> Nought of their former Faith dos then remain,</l>
+               <l>They ride the Horſe, but Intereſt guides the Rein.</l>
+            </sp>
+            <sp>
+               <speaker>Salters-Hall.</speaker>
+               <l>On Fathers, Councils, Synods, or Decrees,</l>
+               <l>I don't rely, or guide my Faith by theſe.</l>
+               <l>Of human Race all our Fore-fathers were,</l>
+               <l>Oft left the Good, and with the Bad did err:</l>
+               <l>When ere their Doctrins do a Doubt afford,</l>
+               <l>I bring it to the Touchſtone of the Word.</l>
+               <l>I nere cou'd think the righteous God would give</l>
+               <l>Power to one, for others to believe,</l>
+               <l>Or that a Father had a right to be</l>
+               <l>Judg for himſelf and his Poſterity.</l>
+               <pb n="24" facs="tcp:42812:12"/>
+               <l> My Sons thou ſlander'ſt, and call'ſt ignorant,</l>
+               <l>Thy Sons, tho learn'd, do all the Graces want:</l>
+               <l>My Sons too could their human Learning boaſt,</l>
+               <l>But that in things of God and Faith is loſt.</l>
+               <l>Can'ſt thou the Spirit, and the Fathers Love,</l>
+               <l>By Mathematick Demonſtration prove,</l>
+               <l>Why God Religion in this Land ſhould place,</l>
+               <l>And to ſo many Lands deny his Grace?</l>
+               <l>In human Learning we no Profit find,</l>
+               <l>For human things affect a human Mind;</l>
+               <l>The things of God a nobler heat require</l>
+               <l>Our Souls are touch'd with a Celeſtial Fire,</l>
+               <l>Which tho we can't conceive, we muſt admire.</l>
+               <pb n="25" facs="tcp:42812:12"/>
+               <l> The bleſſed Martyrs in the days of old</l>
+               <l>My ſacred Truths and Doctrins ſound did hold;</l>
+               <l>Did the ſame Faith, and the ſame Worſhip teach,</l>
+               <l>Alike they worſhip'd, and alike did preach:</l>
+               <l>Their Learning was their Perſecutors ſhame;</l>
+               <l>But 'twas God's Spirit led 'em through the Flame.</l>
+               <l>Nature oppreſs'd by Nature, quits the Field,</l>
+               <l>Without divine aſſiſtance ſoon dos yield:</l>
+               <l>My Sons too many, and alas too weak,</l>
+               <l>Do at thy Altars their Preferments ſeek:</l>
+               <l>Where Int'reſt rules, the weaker Graces fall,</l>
+               <l>And men corrupted bow the Knee to <hi>Baal,</hi>
+               </l>
+               <l>Side with the World for Profit and Eſtate,</l>
+               <l>But theſe my Sons are illegitimate;</l>
+               <pb n="26" facs="tcp:42812:13"/>
+               <l> Creep to my Altars 'mongſt the numerous Throng,</l>
+               <l>Not well inſtructed to continue long:</l>
+               <l>But if God's Word, and Sacrament divine,</l>
+               <l>Be thus abus'd, the fault is wholly thine:</l>
+               <l>I blame my Sons who with thy Laws do cloſe,</l>
+               <l>But more I blame thee doſt thoſe Laws impoſe;</l>
+               <l>Laws which the Rights of Nature do infringe,</l>
+               <l>Corrupt the Faith, and Ordinances change;</l>
+               <l>Thus alter'd, thus directed, are at beſt</l>
+               <l>Only a ſecular and human Teſt:</l>
+               <l>To ruin Faith you Votaries decoy;</l>
+               <l>For thus to alter's wholly to deſtroy.</l>
+               <pb n="27" facs="tcp:42812:13"/>
+               <l> While you in Pow'r your vaſt Dominion place,</l>
+               <l>You do the worth of Sacraments debaſe,</l>
+               <l>The ill effects of a corrupted Grace.</l>
+               <l>Thy Sons by Profits are grown wondrous great;</l>
+               <l>Why are my Sons excluded from the State?</l>
+               <l>Thy Sons grow proud, while mine you thus debar;</l>
+               <l>For Pride and Power ſtill conſiſtent are:</l>
+               <l>My Sons are all excluded from the Court,</l>
+               <l>And muſt not ſerve a Monarch they ſupport;</l>
+               <l>A King they love, a Settlement they own,</l>
+               <l>And did their beſt to bring him to the Throne;</l>
+               <l>For him they always moſt devoutly pray,</l>
+               <l>That Heav'n would bleſs, and ſtill direct his way:</l>
+               <pb n="28" facs="tcp:42812:14"/>
+               <l> I teach my Infants his juſt Praiſe to ſing,</l>
+               <l>For him my Lute and trembling Harp I ſtring,</l>
+               <l>And all my Sons are loyal to the King.</l>
+               <l>Thy Sons are diſobedient to the Laws,</l>
+               <l>And traiterouſly embark in a bad Cauſe,</l>
+               <l>Would all our Rights and Liberties betray,</l>
+               <l>Set up the Slave, and take the Man away:</l>
+               <l>Some of thy Sons ingloriouſly contriv'd:</l>
+               <l>To take that Life away by which they liv'd;</l>
+               <l>With murderous Hands that ſacred King to ſeize,</l>
+               <l>Which ſav'd our ſinking Nations in diſtreſs.</l>
+               <l>Their villanous Acts and their deteſted Fame</l>
+               <l>Our City Gates do all around proclaim.</l>
+            </sp>
+            <sp>
+               <pb n="29" facs="tcp:42812:14"/>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>How ill pronounc'd is ſacred Loyaltie,</l>
+               <l>By thy inhuman, murderous Brood and Thee?</l>
+               <l>What mighty Miſchiefs heretofore you've don,</l>
+               <l>Murder'd the Father, and depos'd the Son;</l>
+               <l>You loyal prove only to gain by Stealth</l>
+               <l>That hideous ill ſhap'd thing, a Commonwealth,</l>
+               <l>Which better with your Diſcipline might ſute,</l>
+               <l>More rigid far than mine, and abſolute:</l>
+               <l>My Sons were ever from Rebellion free,</l>
+               <l>Much fam'd for their unſpotted Loyalty,</l>
+               <l>I the beſt Guardian to a Monarch's Throne,</l>
+               <l>All my rebellious Children do diſown:</l>
+               <pb n="30" facs="tcp:42812:15"/>
+               <l> Thy Sons uneaſy do promote our Wars,</l>
+               <l>Bred up to Factions, and inteſtine Jars;</l>
+               <l>Ill natur'd, inſolent, corrupt and bad,</l>
+               <l>Moroſe, perverſe, and miſchievouſly mad,</l>
+               <l>Turbulent, proud, impatient in diſtreſs,</l>
+               <l>Their Sins to God nor Man they will confeſs;</l>
+               <l>Sprung from the Loins of Angels as they fell,</l>
+               <l>Averſe to Good, and eaſy to rebel;</l>
+               <l>Bold Mariners who 'mongſt the Rocks do ſteer,</l>
+               <l>Always rejoycing when a Storm is near;</l>
+               <l>On ſwelling Seas they moſt contentment find,</l>
+               <l>Pleas'd with the Noiſe and Ruffling of the Wind:</l>
+               <pb n="31" facs="tcp:42812:15"/>
+               <l> Bout'feu's that always light Diſſention's Torch,</l>
+               <l>Loading with Paſquils ſtill the harmleſs Church.</l>
+            </sp>
+            <sp>
+               <speaker>Salters Hall.</speaker>
+               <lg>
+                  <l>My Sons are gentle, and avoid Diſputes,</l>
+                  <l>Contention-ill with their kind temper ſutes:</l>
+                  <l>Not haughty, puff'd, nor inſolently proud,</l>
+                  <l>Stoop to Superiors, humble to the Crowd:</l>
+                  <l>Reverence the Good, nor do the Bad deſpiſe,</l>
+                  <l>Pity the Fools, and do applaud the Wiſe,</l>
+                  <l>And Kindneſs ſhow ev'n to their Enemies:</l>
+                  <l>Yet never think the Laws of God provide</l>
+                  <l>The Saint ſhould lay the Engliſhman aſide.</l>
+                  <pb n="32" facs="tcp:42812:16"/>
+                  <l> The Laws of Nature, and of common Senſe</l>
+                  <l>Allow all Men to ſpeak in their Defence.</l>
+                  <l>If thy Sons rudely will my Children uſe,</l>
+                  <l>Of Crimes unknown thus falſly will accuſe,</l>
+                  <l>Their native Innocence they then muſt clear,</l>
+                  <l>Aſſes and Camels muſt hard Burdens bear;</l>
+                  <l>To Men of worth their Reputation's dear.</l>
+                  <l>'Gainſt them induſtriouſly thine always toil,</l>
+                  <l>The very Dragons of thy Church revile;</l>
+                  <l>And each dull Weathercock thou mount'ſt aloft</l>
+                  <l>Has both at me and at my Children ſcoft:</l>
+                  <l>Thy Dragon does declare thy Infants Breed,</l>
+                  <l>That all thy Sons are of the Serpents Seed;</l>
+                  <pb n="33" facs="tcp:42812:16"/>
+                  <l> The Church that's repreſented by a Dragon,</l>
+                  <l>Proves that its Head and chief Support is <hi>Dagon:</hi>
+                  </l>
+                  <l>Which lately has within a neighb'ring Land</l>
+                  <l>Stumbl'd before the Ark, and loſt his Hand.</l>
+                  <l>Each wretched Mortal ſuch a Fate will find,</l>
+                  <l>Who is averſe to the Eternal Mind.</l>
+                  <l>Thy <hi>Babel</hi> Spires, as they do upwards riſe,</l>
+                  <l>May feel the Fury of the angry Skies:</l>
+                  <l>And the proud Towers now are grown ſo tall,</l>
+                  <l>May by loud Thunder and fork'd Lightning fall.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſayſt my Sons are a rebellious Brood,</l>
+                  <l>And have their hands in Blood of Kings imbrew'd:</l>
+                  <pb n="34" facs="tcp:42812:17"/>
+                  <l> My Sons did ne'r moleſt a righteous State,</l>
+                  <l>But Tyranny they always grumbl'd at:</l>
+                  <l>'Tis not their fault if Kings do Tyrants grow,</l>
+                  <l>Prove their own Ruin and their Overthrow:</l>
+                  <l>They may their Actions and their Crimes condemn,</l>
+                  <l>But 'tis juſt Heav'n alone does puniſh them.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>St. Paul</hi>'s.</speaker>
+               <l>Thus for my Kindneſs I'm rewarded ſtill,</l>
+               <l>My Goodneſs thus excites you unto ill:</l>
+               <l>Thy ſenſleſs Schiſm I always do lament,</l>
+               <l>And dread thy Danger, which I would prevent:</l>
+               <l>But good Advice and Arguments are vain,</l>
+               <l>To Men perplex'd with a diſtracted Brain.</l>
+               <pb n="35" facs="tcp:42812:17"/>
+               <l> I would have drawn thee with the Cords of Love,</l>
+               <l>The gentle Method of my Head above,</l>
+               <l>But all my means do unſucceſsful prove.</l>
+               <l>When theſe kind Methods I have laid aſide,</l>
+               <l>I, what Correction can affect, have try'd:</l>
+               <l>But neither Love nor Wrath was underſtood,</l>
+               <l>Doom'd to be ſtubborn, and eſtrang'd to good!</l>
+               <l>I all my Ends and good Intentions miſt,</l>
+               <l>Whilſt thou in thy Perverſneſs didſt perſiſt:</l>
+               <l>The moſt unweildy, reſty thing alive,</l>
+               <l>A wayward Beaſt will neither lead nor drive:</l>
+               <l>But yet to thee I open ſtill my Gate,</l>
+               <l>Hadſt thou but Grace to enter in thereat.</l>
+               <pb n="36" facs="tcp:42812:18"/>
+               <l> Beneath my Roof I have preſerv'd a Room</l>
+               <l>For thee and all thy Sons that thither come;</l>
+               <l>Where a ſafe Shelter thou mayſt always find</l>
+               <l>From waſting Rains, and the tempeſtuous Wind.</l>
+            </sp>
+            <sp>
+               <speaker>Salters Hall.</speaker>
+               <l>Thus ſome great Lion of the <hi>Lybian</hi> Brood,</l>
+               <l>Who long has reign'd and ravag'd all the Wood,</l>
+               <l>The harmleſs Herds his rav'nous Paws has kill'd,</l>
+               <l>Whoſe murder'd Carkaſſes his Guts have fill'd:</l>
+               <l>Grown old he can't ſo nimbly frisk about,</l>
+               <l>Or if he's muzzl'd, or his Teeth beat out,</l>
+               <l>Contracts his Paws, ſeems lovingly inclin'd,</l>
+               <l>Feeds with the Does, and ſlumbers with the Hind.</l>
+               <pb n="37" facs="tcp:42812:18"/>
+               <l> Tho now he can't, as once, ſo loudly roar,</l>
+               <l>Nor be as cruel as he was before;</l>
+               <l>His Mind's the ſame, and always bent to ill;</l>
+               <l>Nature unchang'd, he is a Lion ſtill.</l>
+               <l>How kindly now my Sons you do invite,</l>
+               <l>Who know you're muzzl'd, and you cannot bite:</l>
+               <l>My Sons ſupported by the ſelf-ſame Law,</l>
+               <l>Which once expos'd them to the Lions Paw:</l>
+               <l>Nor need they now to thee for Shelter come,</l>
+               <l>Since Law ſecures 'em in their Faith at home:</l>
+               <l>Beneath thy Shade no generous Plant will grow,</l>
+               <l>Thy Shade's deſtructive as the Froſt or Snow.</l>
+               <pb n="38" facs="tcp:42812:19"/>
+               <l> The Beaſts which o're the flowry Paſtures range</l>
+               <l>May for thy Shadow ſultry Beams exchange,</l>
+               <l>But ſoon return to Herbage in the Field;</l>
+               <l>Thy Shelter does no wholſom Paſture yield.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42812:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
